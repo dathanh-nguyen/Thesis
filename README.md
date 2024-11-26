@@ -1,5 +1,5 @@
 # Master Thesis - Bridging the Gap: An NLP-based Approach to Compare CSR Reports and News Coverage and Identify Greenwashing
-This repository contains all the code for my MScBA Business Analytics & Management thesis (as of now unpublished). A link will be added once the thesis has been added to the Erasmus University Thesis Repository. 
+This repository contains all the code for my MScBA Business Analytics & Management thesis. A link to the Erasmus University Thesis Repository can be found [here](https://thesis.eur.nl/pub/71845) . 
 
 Under the `data_collection_pre-processing` folder, you will find the code used to gather news data from Google News using the GNews package and the pre-processing of the sustainability reports and additional NexisUni articles (with most of the code for the PDF pre-processing being re-used from https://github.com/llbtl/paper_ssm01).
 Under the `analysis` folder, you will find the code used for topic modelling and calculation of the greenwashing scores using various NLP techniques. Note: Outputs and Visualizations are not included as part of the notebooks for memory purposes and to avoid any potential legal issues from including article texts here. Some generated visualizations can be found in the `visualizations` folder in `analysis`. 
